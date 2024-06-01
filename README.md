@@ -6,7 +6,7 @@
 
 👀 I’m interested in Data Science and Analytics.  
 
-🌱 Master in Python, SQL and data Visualization  
+🌱 Master in Python, SQL and Data Visualization  
 
 Email - patiyalabhishek@outlook.com  
 
